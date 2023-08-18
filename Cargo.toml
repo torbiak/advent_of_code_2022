@@ -1,0 +1,8 @@
+[package]
+name = "advent_of_code_2022"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+once_cell = "1.18.0"
+regex-lite = "0.1.0"
